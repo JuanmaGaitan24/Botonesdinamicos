@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Botonesdinamicos</string>
+    <string name="borrar">Delete</string>
+    <string name="borrarPares">Delete Pairs</string>
 </resources>

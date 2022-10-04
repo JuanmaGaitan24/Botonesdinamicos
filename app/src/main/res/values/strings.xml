@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Botonesdinamicos</string>
+    <string name="borrar">Borrar</string>
+    <string name="borrarPares">Borrar Pares</string>
 </resources>
